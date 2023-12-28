@@ -22,5 +22,6 @@ Implemented for styling and design, ensuring visual fidelity to the Amazon websi
 **Clone the repository**
 Open the HTML files in a web browser to explore the Amazon clone.
 Navigate through the different pages to experience the replicated Amazon interface.
-Note: This project is for educational purposes only and serves as a demonstration of front-end development skills in HTML and CSS. It does not incorporate actual e-commerce functionality or backend functionalities like payment processing or database interactions.
-**Demo Link: **    https://kirangajjana.github.io/amazon-clone/
+Note: This project is for educational purposes only and serves as a demonstration of front-end development skills in HTML and CSS. It does not incorporate actual e-commerce functionality or backend functionalities like payment processing or database interactions
+**Demo Link:**   
+https://kirangajjana.github.io/amazon-clone/
