@@ -1,5 +1,5 @@
 **UI Replica:** 
-Accurately replicates the layout, design, and styling of the Amazon website to resemble the original user interface.
+Accurately replicates the layout, design, and styling of the Amazon website to resemble the original user interface... 
 
 **Responsive Design:**
 Ensures responsiveness across various devices, allowing for seamless user interaction and a consistent experience on desktops, tablets, and mobile devices.
